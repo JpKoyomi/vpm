@@ -1,0 +1,25 @@
+{
+  "name": "koyomi",
+  "id": "koyomi.works",
+  "author": "koyomi",
+  "url": "https://jpkoyomi.github.io/vpm/vpm.json",
+  "packages": {
+    "works.koyomi.skinnedmeshrendererreferenceboneeditor": {
+      "versions": {
+        "1.0.0": {
+          "name": "works.koyomi.skinnedmeshrendererreferenceboneeditor",
+          "version": "1.0.0",
+          "displayName": "Skinned Mesh Renderer Reference Bone Editor",
+          "description": "Skinned Mesh Renderer Reference Bone Editor",
+          "unity": "2022.3",
+          "licensesUrl": "https://github.com/JpKoyomi/Unity.SkinnedMeshRendererReferenceBoneEditor/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": ["Tool"],
+          "url": "https://github.com/JpKoyomi/Unity.SkinnedMeshRendererReferenceBoneEditor/releases/download/v1.0.0/SkinnedMeshRendererReferenceBoneEditor.zip?",
+          "repo": "https://jpkoyomi.github.io/vpm/vpm.json",
+          "zipSHA256": "880bcafd975f8945d82a70c67af072b859731f53cda5ba6ca5616ba5fbebed5b"
+        }
+      }
+    }
+  }
+}
